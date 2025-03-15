@@ -494,11 +494,12 @@ main .section-hero {
 .section-why--choose .grid {
   gap: 9.6rem;
   align-items: center;
-   padding: 0 32px;
+  
 }
 
 .why-choose--div {
   margin-bottom: 3.2rem;
+   padding: 0 32px;
 }
 
 .section-why--choose .text-align--right .why-choose--div {
